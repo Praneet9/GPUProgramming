@@ -15,6 +15,13 @@ __global__ void vectorAdd(float *A, float *B, float *C, int N) {
 	}
 }
 
+__global__ void vectorMul(float *A, float *B, float *C, int N) {
+	int idx = blockIdx.x * blockDim.x + threadIdx.x;
+	if (idx < N) {
+		C[idx] = A[idx] * B[idx];
+	}
+}
+
 int main() {
 	int N = 1000;
 	size_t size = N * sizeof(float);
@@ -51,7 +58,18 @@ int main() {
         std::cout << B_h[i] << " ";
     }
 	std::cout << std::endl;
-	std::cout << "C values: ";
+	std::cout << "C values Add: ";
+	for (int i = 0; i < 5; i++) { // Print first 5 results
+        std::cout << C_h[i] << " ";
+    }
+	std::cout << std::endl;
+
+	vectorMul<<<blocksPerGrid, threadsPerBlock>>>(A_d, B_d, C_d, N);
+
+	cudaMemcpy(C_h, C_d, size, cudaMemcpyDeviceToHost);
+
+	std::cout << std::endl;
+	std::cout << "C values Mul: ";
 	for (int i = 0; i < 5; i++) { // Print first 5 results
         std::cout << C_h[i] << " ";
     }
