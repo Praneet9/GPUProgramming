@@ -10,3 +10,7 @@
 ## Day 2
 
 - [x] Matrix multiplication (Naive implementation)
+
+## Day 3
+
+- [x] Transpose of a Matrix
