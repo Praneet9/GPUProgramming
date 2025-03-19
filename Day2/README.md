@@ -1,3 +1,3 @@
-# Day 1
+# Day 2
 
 - [x] Matrix multiplication (Naive implementation)
