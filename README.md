@@ -26,9 +26,13 @@
 ## Day 6
 
 - [x] Read Chapter 4 and 5 of PMPP
-- [x] Learning Shared Memory implementation with Euclidean Norm
+- [] Learning Shared Memory implementation with Euclidean Norm
 
 ## Day 7
 
 - [x] Read Chapter 6 of PMPP
 - [x] Completed implementation of Shared Memory implementation with Euclidean Norm
+
+## Day 8
+
+- [] Implementing tiled matrix multiplication
