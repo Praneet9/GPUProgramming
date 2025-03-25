@@ -36,3 +36,7 @@
 ## Day 8
 
 - [] Implementing tiled matrix multiplication
+
+## Day 9
+
+- [x] Implementing tiled matrix multiplication
