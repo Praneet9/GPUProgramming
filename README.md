@@ -39,4 +39,8 @@
 
 ## Day 9
 
-- [x] Implementing tiled matrix multiplication
+- [x] Implemented tiled matrix multiplication
+
+## Day 10
+
+- [x] Implemented image sharpening kernel
