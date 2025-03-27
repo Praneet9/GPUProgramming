@@ -44,3 +44,7 @@
 ## Day 10
 
 - [x] Implemented image sharpening kernel
+
+## Day 11
+
+- [x] Implemented Edge detection kernel
