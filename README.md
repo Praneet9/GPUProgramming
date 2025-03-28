@@ -48,3 +48,7 @@
 ## Day 11
 
 - [x] Implemented Edge detection kernel
+
+## Day 12
+
+- [x] Reduction kernel for maximum element
