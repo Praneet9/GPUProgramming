@@ -52,3 +52,7 @@
 ## Day 12
 
 - [x] Reduction kernel for maximum element
+
+## Day 13
+
+- [] Implementing image morphological operations
