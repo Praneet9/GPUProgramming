@@ -56,3 +56,7 @@
 ## Day 13
 
 - [] Implementing image morphological operations
+
+## Day 14
+
+- [x] Implementing image morphological operations (Dilation)
