@@ -59,4 +59,8 @@
 
 ## Day 14
 
-- [x] Implementing image morphological operations (Dilation)
+- [x] Implemented image morphological operations (Dilation)
+
+## Day 15
+
+- [x] Implemented image morphological operations (Erosion)
