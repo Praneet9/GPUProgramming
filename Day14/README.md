@@ -1,3 +1,3 @@
 # Day 14
 
-- [x] Implementing image morphological operations (Dilation)
+- [x] Implemented image morphological operations (Dilation)
