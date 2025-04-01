@@ -64,3 +64,7 @@
 ## Day 15
 
 - [x] Implemented image morphological operations (Erosion)
+
+## Day 16
+
+- [x] Completed implementation of morphological operations (Binarization + Dilation + Erosion)
