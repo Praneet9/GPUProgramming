@@ -80,3 +80,7 @@
 ## Day 19
 
 - [] Implementing Convolution for 3 channel input image
+
+## Day 20
+
+- [] Implemented Convolution for 3 channel input image
