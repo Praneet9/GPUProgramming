@@ -96,3 +96,7 @@
 ## Day 23
 
 - [x] Implemented tiled Convolution for 3 channel input image with shared memory for kernels
+
+## Day 24
+
+- [x] Read Chapter 7 and 8 of PMPP
