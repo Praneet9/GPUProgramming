@@ -100,3 +100,7 @@
 ## Day 24
 
 - [x] Read Chapter 7 and 8 of PMPP
+
+## Day 25
+
+- [x] Read Chapter 9 of PMPP
