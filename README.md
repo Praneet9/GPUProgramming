@@ -104,3 +104,7 @@
 ## Day 25
 
 - [x] Read Chapter 9 of PMPP
+
+## Day 26
+
+- [x] Read Chapter 10 of PMPP
