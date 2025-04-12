@@ -108,3 +108,7 @@
 ## Day 26
 
 - [x] Read Chapter 10 of PMPP
+
+## Day 27
+
+- [x] Revising/re-reading chapter 2 - 10. Making notes.
