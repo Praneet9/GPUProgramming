@@ -116,3 +116,7 @@
 ## Day 28
 
 - [x] Revising/re-reading chapter 2 - 10. Making notes.
+
+## Day 29
+
+- [x] Revising/re-reading chapter 2 - 10. Making notes.
