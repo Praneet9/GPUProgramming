@@ -128,3 +128,7 @@
 ## Day 31
 
 - [x] Revising/re-reading chapter 2 - 10. Making notes.
+
+## Day 32
+
+- [x] Revising/re-reading chapter 2 - 10. Making notes.
