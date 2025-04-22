@@ -103,31 +103,31 @@
 
 ## Day 25
 
-- [x] Read Chapter 9 of PMPP
+- [x] Read Chapter 7 and 8 of PMPP
 
 ## Day 26
 
-- [x] Read Chapter 10 of PMPP
+- [x] Read Chapter 7 and 8 of PMPP
 
 ## Day 27
 
-- [x] Revising/re-reading chapter 2 - 10. Making notes.
+- [x] Read Chapter 9 of PMPP
 
 ## Day 28
 
-- [x] Revising/re-reading chapter 2 - 10. Making notes.
+- [x] Read Chapter 9 of PMPP
 
 ## Day 29
 
-- [x] Revising/re-reading chapter 2 - 10. Making notes.
+- [x] Read Chapter 10 of PMPP
 
 ## Day 30
 
-- [x] Revising/re-reading chapter 2 - 10. Making notes.
+- [x] Read Chapter 10 of PMPP
 
 ## Day 31
 
-- [x] Revising/re-reading chapter 2 - 10. Making notes.
+- [x] Read Chapter 10 of PMPP
 
 ## Day 32
 
@@ -146,5 +146,9 @@
 - [x] Revising/re-reading chapter 2 - 10. Making notes.
 
 ## Day 36
+
+- [x] Revising/re-reading chapter 2 - 10. Making notes.
+
+## Day 37
 
 - [x] Revising/re-reading chapter 2 - 10. Making notes.
