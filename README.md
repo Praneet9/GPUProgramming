@@ -152,3 +152,7 @@
 ## Day 37
 
 - [x] Revising/re-reading chapter 2 - 10. Making notes.
+
+## Day 38
+
+- [x] Revising/re-reading chapter 2 - 10. Making notes.
