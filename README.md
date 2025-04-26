@@ -160,3 +160,7 @@
 ## Day 39
 
 - [x] Revising/re-reading chapter 2 - 10. Making notes.
+
+## Day 40
+
+- [x] Revising/re-reading chapter 2 - 10. Making notes.
