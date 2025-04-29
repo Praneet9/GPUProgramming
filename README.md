@@ -176,3 +176,7 @@
 ## Day 43
 
 - [x] Revising/re-reading chapter 2 - 10. Making notes.
+
+## Day 44
+
+- [x] Revising/re-reading chapter 2 - 10. Making notes.
