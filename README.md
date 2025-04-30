@@ -180,3 +180,7 @@
 ## Day 44
 
 - [x] Revising/re-reading chapter 2 - 10. Making notes.
+
+## Day 45
+
+- [x] Revising/re-reading chapter 2 - 10. Making notes.
