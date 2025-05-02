@@ -188,3 +188,7 @@
 ## Day 46
 
 - [x] Revising/re-reading chapter 2 - 10. Making notes.
+
+## Day 47
+
+- [x] Revising/re-reading chapter 2 - 10. Making notes.
