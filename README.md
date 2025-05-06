@@ -204,3 +204,7 @@
 ## Day 50
 
 - [x] Revising/re-reading chapter 2 - 10. Making notes.
+
+## Day 51
+
+- [x] Revising/re-reading chapter 2 - 10. Making notes.
