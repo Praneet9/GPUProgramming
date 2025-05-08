@@ -212,3 +212,7 @@
 ## Day 52
 
 - [x] Reading chapter 11.
+
+## Day 53
+
+- [x] Reading chapter 11.
