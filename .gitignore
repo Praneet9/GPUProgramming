@@ -26,3 +26,11 @@
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,cuda
+
+**/CMakeFiles
+*.cmake
+CMakeCache.txt
+detect_cuda_compute_capabilities.cu
+detect_cuda_version.cc
+Makefile
+app
