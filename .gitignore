@@ -34,3 +34,4 @@ detect_cuda_compute_capabilities.cu
 detect_cuda_version.cc
 Makefile
 app
+**/build
