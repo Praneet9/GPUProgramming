@@ -228,3 +228,7 @@
 ## Day 56
 
 - [x] Reading chapter 11.
+
+## Day 57
+
+- [x] Reading chapter 11.
