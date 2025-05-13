@@ -232,3 +232,7 @@
 ## Day 57
 
 - [x] Reading chapter 11.
+
+## Day 58
+
+- [x] Reading chapter 11.
