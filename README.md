@@ -236,3 +236,7 @@
 ## Day 58
 
 - [x] Reading chapter 11.
+
+## Day 59
+
+- [x] Reading chapter 11.
