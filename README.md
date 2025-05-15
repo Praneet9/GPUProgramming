@@ -240,3 +240,7 @@
 ## Day 59
 
 - [x] Reading chapter 11.
+
+## Day 60
+
+- [x] Reading chapter 11.
