@@ -248,3 +248,7 @@
 ## Day 61
 
 - [x] Reading chapter 11.
+
+## Day 62
+
+- [x] Reading chapter 11.
