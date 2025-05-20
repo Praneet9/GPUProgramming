@@ -256,3 +256,7 @@
 ## Day 63
 
 - [x] Reading chapter 11.
+
+## Day 64
+
+- [x] Reading chapter 12.
