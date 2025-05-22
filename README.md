@@ -268,3 +268,7 @@
 ## Day 66
 
 - [x] Reading chapter 12.
+
+## Day 67
+
+- [x] Reading chapter 12.
