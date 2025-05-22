@@ -264,3 +264,7 @@
 ## Day 65
 
 - [x] Reading chapter 12.
+
+## Day 66
+
+- [x] Reading chapter 12.
