@@ -272,3 +272,7 @@
 ## Day 67
 
 - [x] Reading chapter 12.
+
+## Day 68
+
+- [x] Reading chapter 12.
