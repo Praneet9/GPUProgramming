@@ -280,3 +280,7 @@
 ## Day 69
 
 - [x] Reading chapter 12.
+
+## Day 70
+
+- [x] Histogram kernel with libtorch
