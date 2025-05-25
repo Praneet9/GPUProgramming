@@ -1,25 +1,30 @@
 #include <cuda_runtime.h>
+#define BLOCK_SIZE 256
 
 __global__ void reduction_kernel(int* input, int* output, int length) {
 
 	int idx = blockIdx.x * blockDim.x + threadIdx.x;
+	extern __shared__ int sdata[];
 
-	for(int stride=1; stride <= blockDim.x; stride*=2) {
-		if (idx % stride == 0 && idx + stride < length) {
-			input[idx] += input[idx + stride];
+	sdata[threadIdx.x] = (idx < length) ? input[idx] : 0;
+    __syncthreads();
+
+	for(int stride=blockDim.x / 2; stride > 0; stride=stride/2) {
+		if (threadIdx.x < stride) {
+			sdata[threadIdx.x] += sdata[threadIdx.x + stride];
 		}
 		__syncthreads();
 	}
 
-	if (idx == 0) {
-		*output = input[0];
+	if (threadIdx.x == 0) {
+		output[blockIdx.x] = sdata[0];
 	}
 }
 
 void launch_reduction_kernel(int* input_ptr, int* output_ptr, int length) {
 
-	int threads = 256;
+	int threads = 1024;
 	dim3 blocks = {(length + threads - 1) / threads};
 
-	reduction_kernel<<<blocks, threads>>>(input_ptr, output_ptr, length);
+	reduction_kernel<<<blocks, threads, threads * sizeof(int)>>>(input_ptr, output_ptr, length);
 }
