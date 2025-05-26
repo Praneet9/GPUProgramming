@@ -284,3 +284,7 @@
 ## Day 70
 
 - [x] Histogram kernel with libtorch
+
+## Day 71
+
+- [x] Histogram image kernel with libtorch
