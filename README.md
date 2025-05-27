@@ -288,3 +288,7 @@
 ## Day 71
 
 - [x] Histogram image kernel with libtorch
+
+## Day 72
+
+- [x] Histogram image privatization kernel with libtorch
