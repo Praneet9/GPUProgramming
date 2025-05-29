@@ -296,3 +296,7 @@
 ## Day 73
 
 - [x] Histogram image privatization kernel with libtorch
+
+## Day 74
+
+- [x] Reduction kernel
