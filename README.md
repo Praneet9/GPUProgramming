@@ -299,4 +299,8 @@
 
 ## Day 74
 
+- [] Reduction kernel
+
+## Day 75
+
 - [x] Reduction kernel
