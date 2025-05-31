@@ -304,3 +304,7 @@
 ## Day 75
 
 - [x] Reduction kernel
+
+## Day 76
+
+- [x] Reduction kernel
