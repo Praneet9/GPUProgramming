@@ -324,3 +324,7 @@
 ## Day 80
 
 - [x] Optimized Reduction kernel
+
+## Day 81
+
+- [x] Optimized Reduction kernel
