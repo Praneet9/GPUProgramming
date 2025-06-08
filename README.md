@@ -336,3 +336,7 @@
 ## Day 83
 
 - [x] Optimized Reduction kernel
+
+## Day 84
+
+- [x] Optimized Reduction kernel
